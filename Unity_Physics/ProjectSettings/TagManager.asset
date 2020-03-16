@@ -9,6 +9,7 @@ TagManager:
   - Platform
   - boundery
   - Score
+  - Moon
   layers:
   - Default
   - TransparentFX
